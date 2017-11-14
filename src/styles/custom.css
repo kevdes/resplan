@@ -1,0 +1,22 @@
+#root {
+  height: 100%;
+}
+
+.ant-layout {
+  height: 100%;
+}
+
+.ant-layout-header .logo {
+  float: left;
+  height: 98%;
+  line-height: 56px;
+  font-size: 21px;
+  color: yellowgreen;
+  margin-right: 24px;
+  margin-left: -3px;
+}
+
+@font-face {
+  font-family: 'anticon';
+  src: local('anticon'), local('anticon'), url('../fonts/iconfont/iconfont.woff') format('woff');
+}
