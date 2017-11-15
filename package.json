@@ -72,6 +72,7 @@
     "less": "^2.7.1",
     "less-loader": "^2.2.3",
     "less-vars-to-js": "^1.2.0",
+    "mongoose": "^4.13.2",
     "postcss-loader": "^0.9.1",
     "progress-bar-webpack-plugin": "^1.8.0",
     "redbox-react": "^1.2.9",
