@@ -102,7 +102,7 @@
     "postcss-loader": "^0.9.1",
     "progress-bar-webpack-plugin": "^1.8.0",
     "react-addons-test-utils": "^15.6.2",
-    "react-live-clock": "^2.0.1",
+    "react-live-clock": "^2.0.2",
     "react-table": "^6.7.4",
     "redbox-react": "^1.2.9",
     "redux-devtools": "^3.3.1",
