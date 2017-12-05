@@ -51,6 +51,7 @@
     "reselect": "^2.5.1",
     "scroll-behavior": "^0.9.5",
     "toastr": "^2.1.2",
+    "webpack-dev-server": "^2.9.5",
     "whatwg-fetch": "^1.0.0"
   },
   "devDependencies": {
